@@ -1,0 +1,46 @@
+{ "questions":
+  [
+    {
+      "content": "En quelle année a été créé internet ?",
+      "answers": [
+        {
+          "content": "1800",
+          "is_correct": "false"
+        },
+        {
+          "content": "1992",
+          "is_correct": "false"
+        },
+        {
+          "content": "1960",
+          "is_correct": "true"
+        },
+        {
+          "content": "2020",
+          "is_correct": "false"
+        }
+      ]
+    },
+    {
+      "content": "Sélectionne le ou les navigateurs de recherche : ",
+      "answers": [
+        {
+          "content": "Google",
+          "is_correct": "true"
+        },
+        {
+          "content": "Tesla",
+          "is_correct": "false"
+        },
+        {
+          "content": "Explorer",
+          "is_correct": "true"
+        },
+        {
+          "content": "Qwant",
+          "is_correct": "true"
+        }
+      ]
+    }
+  ]
+}
