@@ -2,6 +2,7 @@
   [
     {
       "content": "En quelle année a été créé internet ?",
+      "explanation": "En effet c'est bien dans les années 60 que l'internet mondial a été inventé",
       "answers": [
         {
           "content": "1800",
@@ -23,6 +24,7 @@
     },
     {
       "content": "Sélectionne le ou les navigateurs de recherche : ",
+      "explanation": "et certains se font beaucoup beaucoup d'argent",
       "answers": [
         {
           "content": "Google",
