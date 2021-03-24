@@ -1,1 +1,1 @@
-Ceci est un super nouveau cours
+Ceci est un nouveau cours importé de github
